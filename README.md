@@ -3,10 +3,10 @@
 También utilizando un archivo HTML y CSS.</p>
 <p>Algunos elementos ultilizado son:</p>
 
--function
--if
--push
--for
+- function
+- if
+- push
+- for
 
 **Entre otros comandos para la conexión con el HTML**
 
