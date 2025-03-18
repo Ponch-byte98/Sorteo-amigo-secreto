@@ -10,4 +10,4 @@ También utilizando un archivo HTML y CSS.</p>
 
 **Entre otros comandos para la conexión con el HTML**
 
-<footer>Realizado por Alfonso Espinoza Velasco</footer>
+<footer align="center">Realizado por Alfonso Espinoza Velasco</footer>
